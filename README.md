@@ -4,8 +4,4 @@
 
 **Carné: 21001127**
 
-**Ciencia de Datos en Python**
-
-**Sección U**
-
-**Proyecto Final**
+**TecdeMonterreyX - CDICD.1X**
